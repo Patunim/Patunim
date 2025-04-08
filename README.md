@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm PATRICK
 <a href="[https://linkedin.com](https://www.linkedin.com/in/patrick-igbong/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
@@ -10,10 +10,10 @@ I am a recent graduate with a profound interest in technology and a dedication t
 | Skill                                             | Associated Project                                                                                                                |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | Threat Detection with Wazuh                       | [Detection Lab](https://github.com/Patunim/Detection-with-Wazuh)                                                                  |
-| Network Traffic Monitoring and Attack Detection   | [Azure SOC Honeynet Deployment](https://github.com/Patunim/Azure-soc-honeynet-deployment)                                        |
-| Security Automation with Shuffle SOAR             | [Detection Lab](https://github.com/Patunim/LAN-Setup-Homelab)                                                                     |
-| Incident Response Planning and Execution          | [Mastercard Cybersecurity Virtual Experience Program on Forage](https://docs.google.com/document/d/1J6AG6Tn5IIBK2QLFHWRA1R00_Lke5yBspKXtM_eG9Q4/edit?usp=sharing) |
-| Case Management with TheHive                      | [SOC Automation Lab](https://docs.google.com/document/d/1z7PVS80_MRjTYvU4FkjVWUFfAi1bfUDMbVaNd4wxyoU/edit?usp=sharing)            |
+|Azure SOC Honeynet Deploymen   | [Azure SOC Honeynet Deployment](https://github.com/Patunim/Azure-soc-honeynet-deployment)                                        |
+| LAN Homelab Setup             | [Detection Lab](https://github.com/Patunim/LAN-Setup-Homelab)                                                                     |
+| Mastercard Cybersecurity Virtual Experience Program on Forage         | [Mastercard Cybersecurity Virtual Experience Program on Forage](https://docs.google.com/document/d/1J6AG6Tn5IIBK2QLFHWRA1R00_Lke5yBspKXtM_eG9Q4/edit?usp=sharing) |
+| Datacom cybersecurity virtual experience                     | [SOC Automation Lab](https://docs.google.com/document/d/1z7PVS80_MRjTYvU4FkjVWUFfAi1bfUDMbVaNd4wxyoU/edit?usp=sharing)            |
 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -65,6 +65,3 @@ I am a recent graduate with a profound interest in technology and a dedication t
 </a>
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
